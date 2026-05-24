@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-!\[Query Results](pgADMIN_screenshot.png)
+!\[Query Results](pgadmin_screenshot.png)
 
 \---
 
