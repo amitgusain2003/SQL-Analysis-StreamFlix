@@ -6,7 +6,7 @@ Hey! I'm Amit, an aspiring Data Analyst. This is one of my practice projects whe
 
 ## 📸 Preview
 
-![Query Results](https://raw.githubusercontent.com/amitgusain2003/StreamFlix-SQL-Analysis/main/pgadmin_screenshot.png)
+![Query Results](pgadmin_screenshot.png)
 
 ---
 
