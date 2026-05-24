@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-!\[Query Results](pgADMIN_screenshot.png)
+!\[Query Results](https://github.com/amitgusain2003/SQL-Analysis-StreamFlix/blob/main/pgADMIN_screenshot.png)
 
 \---
 
